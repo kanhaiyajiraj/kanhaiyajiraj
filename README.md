@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KANHAIYA JI RAJ</h1>
 <h3 align="center">A passionate Coder from India</h3>
-
+<p align="middle"> <img src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" alt="kanhaiyajiraj353" width ="200" height = "200"/> </p>
 - 🔭 I’m currently working on **C++ ,PYTHON AND JAVA**
 
 - 🌱 I’m currently learning **C++,PYTHON, AND JAVA**
@@ -16,8 +16,7 @@
 - ⚡ Fun fact **A diamond will not dissolve in acid. The only thing that can destroy it is intense heat.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanhaiya-ji-raj-3733a21b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanhaiya-ji-raj-3733a21b8/" height="30" width="40" /></a>
+<a href="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanhaiya-ji-raj-3733a21b8/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kanhaiyajraj123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kanhaiyajraj123/" height="30" width="40" /></a>
 </p>
 
