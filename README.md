@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KANHAIYA JI RAJ</h1>
+<h1 align="center">Hi , I'm KANHAIYA JI RAJ</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <p align="middle"> <img src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" alt="kanhaiyajiraj353" width ="200" height = "200"/> </p>
 - 🔭 I’m currently working on **C++ ,PYTHON AND JAVA**
