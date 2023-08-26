@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm KANHAIYA JI RAJ</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<p align="middle"> <img src="https://cdn.dribbble.com/users/591915/screenshots/3537947/untitled-1.jpg" width ="200" height = "200"/> </p>
+<p align="middle"> <img src="https://cdn.dribbble.com/users/591915/screenshots/3537947/untitled-1.jpg" width ="400" height = "450"/> </p>
 - 🔭 I’m currently working on **C++ ,PYTHON AND JAVA**
 
 - 🌱 I’m currently learning **C++,PYTHON, AND JAVA**
