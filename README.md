@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm KANHAIYA JI RAJ</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<p align="middle"> <img src=https://miro.medium.com/v2/resize:fit:719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg width ="200" height = "200"/> </p>
+<p align="middle"> <img src=[https://miro.medium.com/v2/resize:fit:719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3537947-Code-Guru&psig=AOvVaw2Sx_3dTRwKqnRWckbb-UnS&ust=1693137516603000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiJp_Oi-oADFQAAAAAdAAAAABAE) width ="200" height = "200"/> </p>
 - 🔭 I’m currently working on **C++ ,PYTHON AND JAVA**
 
 - 🌱 I’m currently learning **C++,PYTHON, AND JAVA**
